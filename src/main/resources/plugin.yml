@@ -1,0 +1,9 @@
+name: ModpackGuide
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: A server-side guide for a Create, Aeronautics, Applied Energistics 2, and technology-focused modpack.
+commands:
+  techpack:
+    description: Shows the modpack's technology progression and starter guidance.
+    usage: /techpack [start|progression|help]
